@@ -39,29 +39,8 @@ I'm a programmer and I'm 19 years old. I started programming Java in 2014. Now I
 [![Discord](https://img.shields.io/badge/-Discord-blue?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/b7PfCrdyAh)
 [![Gmail](https://img.shields.io/badge/-Gmail-darkorange?style=flat-square&logo=gmail&logoColor=white)](mailto:gabrielaugustodev@gmail.com)
 
-<a href="#" float="left"><img height="130px" src="https://github-readme-stats.vercel.app/api?username=biewdev&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,fff44a,6accff,43bfff,5c1cff&theme=graywhite"/> <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biewdev&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&text_color=000&icon_color=fff&bg_color=0,5c1cff,43bfff,6accff,fff44a&theme=graywhite" /></a>
+<a href="#" align="left"><img align="left" height="130px" src="https://github-readme-stats.vercel.app/api?username=biewdev&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,fff44a,6accff,43bfff,5c1cff&theme=graywhite"/><img align="left" height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biewdev&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&text_color=000&icon_color=fff&bg_color=0,5c1cff,43bfff,6accff,fff44a&theme=graywhite" /></a>
 
 <br />
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=biewdev)
-  
-<!--
-**biewdev/biewdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![Java](https://img.shields.io/badge/Java-Application-orange?style=flat-square&logo=java&logoColor=white)](https://github.com/biewdev?tab=repositories&q=&type=&language=java)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)](https://github.com/biewdev?tab=repositories&q=&type=&language=javascript)
-[![TypeScript](https://img.shields.io/badge/-Typescript-blue?style=flat-square&logo=typescript&logoColor=white)](https://github.com/biewdev?tab=repositories&q=&type=&language=typescript)
-[![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)](https://github.com/biewdev?tab=repositories&q=&type=&language=python)
-[![SQL](https://img.shields.io/badge/-SQL-blue?style=flat-square&logo=mysql&logoColor=white)](https://github.com/biewdev?tab=repositories&q=&type=&language=sql)
-[![C#](https://img.shields.io/badge/C-Sharp-blue?style=flat-square&logo=c-sharp&logoColor=white)](https://github.com/biewdev?tab=repositories&q=&type=&language=csharp)
-Here are some ideas to get you started:
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=mysql&logoColor=blue)
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
