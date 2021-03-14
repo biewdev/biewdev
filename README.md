@@ -25,7 +25,6 @@ I'm a programmer and I'm 19 years old. I started programming Java in 2014. Now I
 
 #### Additional knowledge (Languages and technologies that I don't have full knowledge)
 
-[![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus&logoColor=blue)](https://github.com/biewdev?tab=repositories&q=&type=&language=c++)
 [![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php&logoColor=blue)](https://github.com/biewdev?tab=repositories&q=&type=&language=php)
 ![WordPress](https://img.shields.io/badge/-WordPress-black?style=flat-square&logo=wordpress&logoColor=blue)
 ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-black?style=flat-square&logo=codeigniter&logoColor=orange)
