@@ -1,3 +1,23 @@
+## <samp>Hello World</samp> 👋
+
+<img src="https://raw.githubusercontent.com/biewdev/biewdev/main/assets/donut.gif" width="400px" align="center" alt="ASCII Donut">
+<p align="center">
+<samp>I'm a <strong>full-stack developer</strong> and I'm currently in the second year of <strong>Computer Science</strong>. I started programming mini games and game add-on using Java in 2014. I'm currently focused on <strong>web development</strong>.</samp>
+</p>
+<p align="center">
+<samp>Some languages and technologies I've been focusing on lately:</samp>
+</p>
+
+<div align="center">
+<samp>
+<strong>
+&bull; HTML &bull; CSS &bull; SASS &bull; JAVASCRIPT &bull; TYPESCRIPT
+&bull; NODE.JS &bull; VUE.JS &bull; SQL &bull; NOSQL &bull;
+</strong>
+</samp>
+</div>
+
+<!--
 ## 👋 Hello World
 I'm a programmer and I'm 20 years old. I started programming Java in 2014. Now I'm focused on fullstack web development.
 
@@ -43,3 +63,4 @@ I'm a programmer and I'm 20 years old. I started programming Java in 2014. Now I
 <br />
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=biewdev)
+-->
