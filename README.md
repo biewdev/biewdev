@@ -1,7 +1,7 @@
 # <samp>Hello World</samp> 👋
 
 <p align="center">
-    <samp>I'm a <strong>full-stack developer</strong> and I'm currently in my second year of <strong>computer  science</strong>. I started programming mini-games and game add-ons using Java in 2014. Currently focusing on <strong>web development</strong>.</samp>
+    <samp>I'm a <strong>full-stack developer</strong> and I'm currently in my third year of <strong>computer  science</strong>. I started programming mini-games and game add-ons using Java in 2014. Currently focusing on <strong>web development</strong>.</samp>
 </p>
 
 <br>
