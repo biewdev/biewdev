@@ -32,6 +32,5 @@
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/-Gmail-darkorange?style=flat-square&logo=gmail&logoColor=white)](mailto:gabrielaugustodev@gmail.com)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=biewdev)
 
 </div>
